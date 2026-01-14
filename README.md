@@ -17,4 +17,4 @@ Forked the official repo to stay updated, but all my modifications, notes, and o
 python -m venv .venv
 source .venv\Scripts\activate
 pip install -r requirements.txt
-cp .env.example .env           # then add your OPENAI_API_KEY
+cp .env.example .env          
